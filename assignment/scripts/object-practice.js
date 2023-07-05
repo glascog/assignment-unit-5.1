@@ -53,4 +53,4 @@ console.log( me.shoeCount );
 */
 me.favoriteColor = 'blue';
 console.log( me.favoriteColor );
-console.log( me );
+console.log('Updated "A little about me":', me );
